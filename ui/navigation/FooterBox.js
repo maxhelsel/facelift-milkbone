@@ -33,7 +33,7 @@ const FooterBox = props => {
               </span>
             </Typography>
             <Tooltip title='Site code' >
-              <IconButton component={Link} href='https://github.com/maxhelsel/facelift-sw' target='_blank' rel='noopener' >
+              <IconButton component={Link} href='https://github.com/maxhelsel/facelift-milkbone' target='_blank' rel='noopener' >
                 <GitHubIcon />
               </IconButton>
             </Tooltip>

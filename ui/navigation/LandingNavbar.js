@@ -21,7 +21,7 @@ const NavbarCore = props => {
           <Grid container item sx={{ maxWidth: 128, position: 'relative' }} >
             <Link href='/' style={{ display: 'flex', flex:1 }} >
               <Grid container item sx={{ maxWidth: 128, position: 'relative' }} >
-                <Image src="/milkboneLogo.png" alt="bc" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: 'contain' }} />
+                <Image src="/milkboneLogo.png" alt="milkbone" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: 'contain' }} />
               </Grid>
             </Link>
           </Grid>
